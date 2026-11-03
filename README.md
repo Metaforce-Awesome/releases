@@ -103,10 +103,10 @@ Get-FileHash .\Metaforce-x64-win.exe -Algorithm SHA256
 
 ## 💬 Support & Inquiries
 
-* 📖 **Documentation**: [https://metaforce.ltd/user-guide](https://metaforce.ltd/user-guide)
+* 📖 **Documentation**: [https://metaforce.ltd/docs](https://metaforce.ltd/docs)
 * 🐛 **Report a Bug / Request a Feature**: [GitHub Issues](https://github.com/Metaforce-Awesome/releases/issues)
 * 🌐 **Website**: [https://metaforce.ltd](https://metaforce.ltd)
-* ✉️ **Contact Support**: support@metaforce.ltd
+* ✉️ **Contact Support**: allen.li.salesforce@gmail.com
 
 <div align="center">
 <sub>© Metaforce. Salesforce, Sales Cloud, and Service Cloud are trademarks of Salesforce, Inc.</sub>
